@@ -13,7 +13,7 @@ STEPS INVOLVED
 •	Changing the datatype of column ‘Time’ from Date/Time to Time.
 •	For the ‘AvgTalkDuration’ column, we first change the datatype of column ‘Time’ from Date/Time to Time. Then we separate the minutes and seconds each to different columns and we merge the minutes and seconds column together. The merged column will be renamed as ‘Talk Duration’. 
 5.	Save and apply to load the dataset into Power BI.
-6.	Create a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. Get creative! 
+6.	Create a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.
             Possible KPIs include (to get you started, but not limited to):
 •	Overall customer satisfaction
 •	Total Calls
